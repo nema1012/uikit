@@ -140,52 +140,52 @@ $margin-xlarge-margin-l:                                $global-xlarge-margin !d
 /* Phone landscape and bigger */
 @media (min-width: $breakpoint-small) {
 
-    .uk-margin-auto\@s {
+    .uk-margin-auto-at-s {
         margin-left: auto !important;
         margin-right: auto !important;
     }
 
-    .uk-margin-auto-left\@s { margin-left: auto !important; }
-    .uk-margin-auto-right\@s { margin-right: auto !important; }
+    .uk-margin-auto-left-at-s { margin-left: auto !important; }
+    .uk-margin-auto-right-at-s { margin-right: auto !important; }
 
 }
 
 /* Tablet landscape and bigger */
 @media (min-width: $breakpoint-medium) {
 
-    .uk-margin-auto\@m {
+    .uk-margin-auto-at-m {
         margin-left: auto !important;
         margin-right: auto !important;
     }
 
-    .uk-margin-auto-left\@m { margin-left: auto !important; }
-    .uk-margin-auto-right\@m { margin-right: auto !important; }
+    .uk-margin-auto-left-at-m { margin-left: auto !important; }
+    .uk-margin-auto-right-at-m { margin-right: auto !important; }
 
 }
 
 /* Desktop and bigger */
 @media (min-width: $breakpoint-large) {
 
-    .uk-margin-auto\@l {
+    .uk-margin-auto-at-l {
         margin-left: auto !important;
         margin-right: auto !important;
     }
 
-    .uk-margin-auto-left\@l { margin-left: auto !important; }
-    .uk-margin-auto-right\@l { margin-right: auto !important; }
+    .uk-margin-auto-left-at-l { margin-left: auto !important; }
+    .uk-margin-auto-right-at-l { margin-right: auto !important; }
 
 }
 
 /* Large screen and bigger */
 @media (min-width: $breakpoint-xlarge) {
 
-    .uk-margin-auto\@xl {
+    .uk-margin-auto-at-xl {
         margin-left: auto !important;
         margin-right: auto !important;
     }
 
-    .uk-margin-auto-left\@xl { margin-left: auto !important; }
-    .uk-margin-auto-right\@xl { margin-right: auto !important; }
+    .uk-margin-auto-left-at-xl { margin-left: auto !important; }
+    .uk-margin-auto-right-at-xl { margin-right: auto !important; }
 
 }
 
@@ -211,32 +211,32 @@ $margin-xlarge-margin-l:                                $global-xlarge-margin !d
 /* Phone landscape and bigger */
 @media (min-width: $breakpoint-small) {
 
-    .uk-margin-remove-left\@s { margin-left: 0 !important; }
-    .uk-margin-remove-right\@s { margin-right: 0 !important; }
+    .uk-margin-remove-left-at-s { margin-left: 0 !important; }
+    .uk-margin-remove-right-at-s { margin-right: 0 !important; }
 
 }
 
 /* Tablet landscape and bigger */
 @media (min-width: $breakpoint-medium) {
 
-    .uk-margin-remove-left\@m { margin-left: 0 !important; }
-    .uk-margin-remove-right\@m { margin-right: 0 !important; }
+    .uk-margin-remove-left-at-m { margin-left: 0 !important; }
+    .uk-margin-remove-right-at-m { margin-right: 0 !important; }
 
 }
 
 /* Desktop and bigger */
 @media (min-width: $breakpoint-large) {
 
-    .uk-margin-remove-left\@l { margin-left: 0 !important; }
-    .uk-margin-remove-right\@l { margin-right: 0 !important; }
+    .uk-margin-remove-left-at-l { margin-left: 0 !important; }
+    .uk-margin-remove-right-at-l { margin-right: 0 !important; }
 
 }
 
 /* Large screen and bigger */
 @media (min-width: $breakpoint-xlarge) {
 
-    .uk-margin-remove-left\@xl { margin-left: 0 !important; }
-    .uk-margin-remove-right\@xl { margin-right: 0 !important; }
+    .uk-margin-remove-left-at-xl { margin-left: 0 !important; }
+    .uk-margin-remove-right-at-xl { margin-right: 0 !important; }
 
 }
 
